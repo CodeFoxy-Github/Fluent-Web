@@ -1,0 +1,11 @@
+.docs-colors-border {
+  width: 2em;
+  height: 2em;
+  border-radius: var(--border-radius);
+  -webkit-border-radius: var(--border-radius);
+  -moz-border-radius: var(--border-radius);
+  -ms-border-radius: var(--border-radius);
+  -o-border-radius: var(--border-radius);
+}
+
+/*# sourceMappingURL=test.a95b2994.css.map */

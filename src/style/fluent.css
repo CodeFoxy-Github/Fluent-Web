@@ -624,7 +624,7 @@ select[multiselect] option:hover {
   cursor: pointer;
 }
 
-select[multiselect] option:focus {
+select[multiselect]option:focus {
   background-color: var(--focus-color);
 }
 
@@ -1004,7 +1004,7 @@ a.fluent-menu-item:hover {
   width: auto;
   color: var(--text-color);
   border: var(--light-border-color) solid 0.4px;
-  background: var(--light-darker-color);
+  background: var(light-darker-color);
   backdrop-filter: blur(15px);
   outline: var(--text-color);
   border-radius: 8px;
@@ -1285,7 +1285,7 @@ p,
   width: auto;
   color: var(--text-color);
   border: var(--light-border-color) solid 0.4px;
-  background: var(--light-darker-color);
+  background: var(light-darker-color);
   backdrop-filter: blur(15px);
   outline: var(--text-color);
   border-radius: 8px;
@@ -1443,7 +1443,7 @@ code {
   height: fit-content;
   color: var(--text-color);
   border: var(--light-border-color) solid 0.4px;
-  background: var(--light-darker-color);
+  background: var(light-darker-color);
   backdrop-filter: blur(15px);
   outline: var(--text-color);
   border-radius: 8px;
